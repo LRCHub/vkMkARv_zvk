@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "アスノヨゾラ哨戒班 (10th Anniversary mix)",
+  "base_artist": "ゆある",
+  "createdAt": "2026-02-21T12:04:49.525436Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アスノヨゾラ哨戒班",
+      "artist": "Orangestar",
+      "has_synced": false,
+      "path": "select/01_アスノヨゾラ哨戒班_Orangestar.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アスノヨゾラ哨戒班",
+      "artist": "Leo／need",
+      "has_synced": true,
+      "path": "select/02_アスノヨゾラ哨戒班_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アスノヨゾラ哨戒班",
+      "artist": "mary",
+      "has_synced": true,
+      "path": "select/03_アスノヨゾラ哨戒班_mary.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アスノヨゾラ哨戒班",
+      "artist": "96猫",
+      "has_synced": true,
+      "path": "select/04_アスノヨゾラ哨戒班_96猫.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アスノヨゾラ哨戒班",
+      "artist": "MARY",
+      "has_synced": true,
+      "path": "select/05_アスノヨゾラ哨戒班_MARY.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "アスノヨゾラ哨戒班",
+      "artist": "Orangestar",
+      "has_synced": true,
+      "path": "select/06_アスノヨゾラ哨戒班_Orangestar.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "アスノヨゾラ哨戒班",
+      "artist": "Orangestar feat. nameless",
+      "has_synced": true,
+      "path": "select/07_アスノヨゾラ哨戒班_Orangestar_feat._nameless.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "アスノヨゾラ哨戒班",
+      "artist": "P丸様｡",
+      "has_synced": true,
+      "path": "select/08_アスノヨゾラ哨戒班_P丸様。.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "アスノヨゾラ哨戒班",
+      "artist": "DAZBEE",
+      "has_synced": true,
+      "path": "select/09_アスノヨゾラ哨戒班_DAZBEE.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "アスノヨゾラ哨戒班",
+      "artist": "Orangestar; nameless",
+      "has_synced": true,
+      "path": "select/10_アスノヨゾラ哨戒班_Orangestar;_nameless.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "アスノヨゾラ哨戒班",
+      "artist": "IA, Orangestar",
+      "has_synced": true,
+      "path": "select/11_アスノヨゾラ哨戒班_IA,_Orangestar.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "アスノヨゾラ哨戒班",
+      "artist": "Orangestar feat. IA",
+      "has_synced": true,
+      "path": "select/12_アスノヨゾラ哨戒班_Orangestar_feat._IA.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "アスノヨゾラ哨戒班 (feat. 星乃一歌)",
+      "artist": "Leo/need",
+      "has_synced": true,
+      "path": "select/13_アスノヨゾラ哨戒班_(feat._星乃一歌)_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Night Sky Patrol of Tomorrow (アスノヨゾラ哨戒班)",
+      "artist": "Raon Lee",
+      "has_synced": true,
+      "path": "select/14_Night_Sky_Patrol_of_Tomorrow_(アスノヨゾラ哨戒班)_Raon_Lee.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "アスノヨゾラ哨戒班 - Asu no Yozora Shoukaihan",
+      "artist": "Yuaru",
+      "has_synced": true,
+      "path": "select/15_アスノヨゾラ哨戒班_-_Asu_no_Yozora_Shoukaihan_Yuaru.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アスノヨゾラ哨戒班",
+      "artist": "ゆある",
+      "has_synced": false,
+      "path": "select/pl_01_アスノヨゾラ哨戒班_ゆある.txt"
+    }
+  ]
+}
